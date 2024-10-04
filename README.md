@@ -11,4 +11,18 @@ The **Kanban Calendar** is a business task planning app built with the **MERN st
 
    ```bash
    npm i
+2. Run Frontend:
+```bash
+   npm run dev
 
+
+### Server Setup
+
+1. Navigate to the `server` folder.
+2. Install dependencies:
+
+   ```bash
+   npm i
+2. Run server:
+```bash
+   npm start
